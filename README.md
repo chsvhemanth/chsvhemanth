@@ -1,17 +1,12 @@
-Got it! Here's a template for a personal "About Me" `README.md` for your GitHub profile:
-
----
-
-# Hi there! I'm \[Your Name] 👋
+# Hi there! I'm Satya Venkata Hemanth Challapalli 👋
 
 Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast who loves to create, learn, and share knowledge. Here’s a little bit about me:
 
-* 🔭 I’m currently working on: \[Project/Tech Stack you're currently working on]
-* 🌱 I’m currently learning: \[Technologies, frameworks, or tools you're learning]
-* 👯 I’m looking to collaborate on: \[Areas of interest for collaboration]
-* 💬 Ask me about: \[Things you enjoy discussing or are knowledgeable about]
-* 📫 How to reach me: \[Email or other contact info]
-* 😄 Fun fact: \[Something unique or funny about you]
+* 🔭 I’m currently working on: AI, ML, Blockchain,quantum Technology.
+* 🌱 I’m currently learning: Quantum Technology and Blockchain
+* 👯 I’m looking to collaborate on cross functional projects in AI , ML, Blockchain, Quantum Computing
+* 📫 How to reach me: mail me --> satyavhemanth2005@gmail.com
+
 
 ## 🔧 Tools & Technologies
 
@@ -27,9 +22,9 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast who
 
 ## 🎉 Fun Projects I've Worked On
 
-* **Project 1**: \[Brief description or link to the project]
-* **Project 2**: \[Brief description or link to the project]
-* **Project 3**: \[Brief description or link to the project]
+* **Project 1**: STORY AKSHAYAPATRA --> AI Based screenplay and story developer
+* **Project 2**: 2D VIDEO TO 3D VIDEO Converter using MiDaS for Depth Estimation
+* **Project 3**: Grayscale to RGB Image Converter using Auto Encoders
 
 Feel free to check them out and let me know what you think! 😄
 
@@ -37,7 +32,6 @@ Feel free to check them out and let me know what you think! 😄
 
 You can also find me on:
 
-* [LinkedIn](your-linkedin-url)
-* [Twitter](your-twitter-url)
-* [Personal Website/Portfolio](your-website-url)
+* [LinkedIn](https://www.linkedin.com/in/satya-venkata-hemanth-challapalli-3aa6b9251/)
+
 
