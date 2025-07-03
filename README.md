@@ -17,8 +17,10 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast who
 * **Cloud & Hosting**: \[AWS, Heroku, Firebase, Vercel,Render]
 
 ## 📈 GitHub Stats
+![chsvhemanth's Streak](https://github-readme-streak-stats.herokuapp.com/?user=chsvhemanth&theme=prussian&hide_border=true)
 
 ![chsvhemanth's Stats](https://github-readme-stats.vercel.app/api?username=chsvhemanth&theme=prussian&show_icons=true&hide_border=true&count_private=true)
+
 ![chsvhemanth's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chsvhemanth&theme=prussian&show_icons=true&hide_border=true&layout=compact)
 
 
