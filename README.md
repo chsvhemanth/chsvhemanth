@@ -34,21 +34,6 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast who
 - 🌟 **Best Student Award** – International Conference on Nano Science & Technology, SRM Chennai  
  
 
----
-
-# 💻 Tech Stack
-![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![C](https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black)  
-![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![Generative AI](https://img.shields.io/badge/GenerativeAI-FF6F00.svg?style=for-the-badge&logo=openai&logoColor=white)  
-
 
 ## 📈 GitHub Stats
 
