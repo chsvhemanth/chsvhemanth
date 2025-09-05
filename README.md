@@ -20,6 +20,8 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast who
 
 ![chsvhemanth's Stats](https://github-readme-stats.vercel.app/api?username=chsvhemanth&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=chsvhemanth&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 ![chsvhemanth's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chsvhemanth&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
 
